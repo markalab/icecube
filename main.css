@@ -1,0 +1,130 @@
+body {
+    margin: 60px auto;
+    width: 100%; 
+    font-family:"Major Mono Display";
+}
+nav ul, footer ul {
+    font-family:"Major Mono Display";
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav a {
+    font-family:"Major Mono Display";
+    text-decoration: none;
+    color: #999/*#2A5DB0,0087BD,999*/;
+    font-size: 1em 
+}
+nav a:hover {
+    background-color: #555;
+    text-decoration: underline;
+}
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1em;
+}
+ul.posts li {
+    list-style: none;
+}
+ul li {
+	font-family:"Major Mono Display";
+	font-size:1em;
+}
+h2 {
+    font-size: 2em;
+    font-family: "Major Mono Display";
+    width: 80%;
+}
+h3 {
+    font-size: 1.5em;
+    font-family:"Major Mono Display";
+    width: 80%;
+}
+p {
+    font-size: 1.25em;
+    font-family:"Major Mono Display";
+    line-height: 1.25em;
+    color: #333;
+    width: 90%;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+img {
+	float:left;
+	width: 100%;
+	filter: brightness(100%);
+}
+.responsive {
+	width: 100%;
+	height: auto
+}
+figure {
+  float: left;
+  width: 100%;
+  text-align: left;
+  filter: brightness(100%);
+}
+figcaption {
+  font-family:"Major Mono Display";
+  font-style: italic;
+  font-size: smaller;
+}
+html *
+{
+  font-family:"Major Mono Display";
+}
+
+/*make a table*/
+
+.tg  {
+  border-collapse:collapse;
+  border-spacing:0;
+ /* width:80%;*/
+}
+.tg td{
+  font-family:"Major Mono Display";
+  font-size:14px; 
+  padding:10px 5px;
+  border-style:solid;
+  border-width:1px;
+  overflow:hidden;
+  word-break:normal;
+  border-color:black;
+}
+.tg th{
+  font-family:"Major Mono Display";
+  font-size:14px;
+  font-weight:normal;
+  padding:10px 5px;
+  border-style:solid;
+  border-width:1px;
+  overflow:hidden;
+  word-break:normal;
+  border-color:black;
+}
+.tg .tg-11ys{
+  /*color:#45474d;*/
+  border-color:#202020;
+  text-align:left;
+  vertical-align:top
+}
+.tg .tg-b6pr{
+  font-weight:bold;
+  /*color:#5c5f67;*/
+  border-color:#202020;
+  text-align:left;
+  vertical-align:top
+}
+.tg .tg-ohiz{
+  font-style:italic;
+  color:#5c5782;
+  border-color:#202020;
+  text-align:left;
+  vertical-align:top
+}
