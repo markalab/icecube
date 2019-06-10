@@ -1,10 +1,10 @@
 body {
     margin: 60px auto;
     width: 100%; 
-    font-family:"Major Mono Display";
-}
+    font-family:"Advent Pro";
+
 nav ul, footer ul {
-    font-family:"Major Mono Display";
+    font-family:"Advent Pro";
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -14,7 +14,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 nav a {
-    font-family:"Major Mono Display";
+    font-family:"Advent Pro";
     text-decoration: none;
     color: #999/*#2A5DB0,0087BD,999*/;
     font-size: 1em 
@@ -31,22 +31,22 @@ ul.posts li {
     list-style: none;
 }
 ul li {
-	font-family:"Major Mono Display";
+	font-family:"Advent Pro";
 	font-size:1em;
 }
 h2 {
     font-size: 2em;
-    font-family: "Major Mono Display";
+    font-family: "Advent Pro";
     width: 80%;
 }
 h3 {
     font-size: 1.5em;
-    font-family:"Major Mono Display";
+    font-family:"Advent Pro";
     width: 80%;
 }
 p {
     font-size: 1.25em;
-    font-family:"Major Mono Display";
+    font-family:"Advent Pro";
     line-height: 1.25em;
     color: #333;
     width: 90%;
@@ -71,13 +71,13 @@ figure {
   filter: brightness(100%);
 }
 figcaption {
-  font-family:"Major Mono Display";
+  font-family:"Advent Pro";
   font-style: italic;
   font-size: smaller;
 }
 html *
 {
-  font-family:"Major Mono Display";
+  font-family:"Advent Pro";
 }
 
 /*make a table*/
@@ -88,7 +88,7 @@ html *
  /* width:80%;*/
 }
 .tg td{
-  font-family:"Major Mono Display";
+  font-family:"Advent Pro";
   font-size:14px; 
   padding:10px 5px;
   border-style:solid;
@@ -98,7 +98,7 @@ html *
   border-color:black;
 }
 .tg th{
-  font-family:"Major Mono Display";
+  font-family:"Advent Pro";
   font-size:14px;
   font-weight:normal;
   padding:10px 5px;
