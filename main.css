@@ -50,27 +50,6 @@ body {
   .sidenav a {font-size: 18px;}
 }
 
-
-nav ul, footer ul {
-    font-family:"Advent Pro";
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-nav a {
-    font-family:"Advent Pro";
-    text-decoration: none;
-    color: #999/*#2A5DB0,0087BD,999*/;
-    font-size: 1em 
-}
-nav a:hover {
-    background-color: #555;
-    text-decoration: underline;
-}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1em;
